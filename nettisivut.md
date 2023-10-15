@@ -26,7 +26,7 @@ I'm a student but in the *early days* I've done various things such as:
 
 I also do **portraits**
 
-![Local Image](assets/images/IMG_2786.JPG)
+![Local Image](assets/images/IMG_2786.jpg)
 
 _A drawing awaits to be finished._
 
