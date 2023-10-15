@@ -31,7 +31,7 @@ I have had great travels:
     - Mallorca
     - Bulgaria
 - As an adult
-    - USA
+    - USA (_one year here_)
         - North Carolina
         - South Carolina
         - Georgia
@@ -39,14 +39,14 @@ I have had great travels:
         - Florida
     - USA again in 2008 December
         - New York (_a week in NYC before Christmas_)
-    - Germany
+    - Germany (_one week traveling around with au pair friends from USA_)
         - Munich
         - Nuremberg
         - Frankfurt
         - Berlin
-    - UAE
+    - UAE (_visiting the one au pair friend who wasn't able to attend trip to Germany_)
         - Dubai
-    - Egypt
+    - Egypt (_in total of 5 months traveling around with rugsag in several trips_)
         - Alexandria
         - Cairo
         - Sharm el Sheikh
@@ -56,6 +56,6 @@ I have had great travels:
     - Sweden
         - Luleå
         - Stockholm
-        
+
 Thank you for visiting!
 
