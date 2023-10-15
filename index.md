@@ -71,19 +71,19 @@ I have had great travels:
 
 ![Local Image](assets/images/IMG_2778.JPG)
 
-_Joe's Underground Cafe in Augusta, Georgia. Check it out_ [Things to do in Augusta](https://www.visitaugusta.com/listing/joes-underground/268/)
+_Joe's Underground Cafe in Augusta, Georgia._ [Things to do in Augusta](https://www.visitaugusta.com/listing/joes-underground/268/)
 
 ![Local Image](assets/images/IMG_2779.JPG)
 
-_Destin, Florida._ [Great place for vacations!](https://destinflorida.com/)
+_Destin, Florida._ [Great place for vacations](https://destinflorida.com/)
 
 ![Local Image](assets/images/IMG_2780.JPG)
 
-_Fishermen Nile, Cairo, Egypt_ [Lonely planet](https://www.lonelyplanet.com/egypt/)
+_Fishermen Nile, Cairo, Egypt._ [Lonely planet](https://www.lonelyplanet.com/egypt/)
 
 ![Local Image](assets/images/IMG_2782.JPG)
 
-_Horseback riding in Sharm el Sheikh_ [What to do](https://www.getyourguide.fi/-l408/?cmp=ga&cq_src=google_ads&cq_cmp=15511527251&cq_con=131277736536&cq_term=sharm+el+sheikh+what+to+do&cq_med=&cq_plac=&cq_net=g&cq_pos=&cq_plt=gp&campaign_id=15511527251&adgroup_id=131277736536&target_id=kwd-40262766293&loc_physical_ms=1005742&match_type=e&ad_id=628328735234&keyword=sharm+el+sheikh+what+to+do&ad_position=&feed_item_id=&placement=&device=c&partner_id=CD951&gclid=Cj0KCQjwm66pBhDQARIsALIR2zCOxjlJNoZ7JvaVu-CY-W4bgfEJF9dw5ANPWkrelVuuAfoYfey9Wy4aAlf5EALw_wcB&visitor-id=F7J9PL6IG89ANB1RJHIVFVSFQGOV1OPJ&locale_autoredirect_optout=true)
+_Horseback riding in Sharm el Sheikh._ [What to do in Sharm el Sheikh](https://www.getyourguide.fi/-l408/?cmp=ga&cq_src=google_ads&cq_cmp=15511527251&cq_con=131277736536&cq_term=sharm+el+sheikh+what+to+do&cq_med=&cq_plac=&cq_net=g&cq_pos=&cq_plt=gp&campaign_id=15511527251&adgroup_id=131277736536&target_id=kwd-40262766293&loc_physical_ms=1005742&match_type=e&ad_id=628328735234&keyword=sharm+el+sheikh+what+to+do&ad_position=&feed_item_id=&placement=&device=c&partner_id=CD951&gclid=Cj0KCQjwm66pBhDQARIsALIR2zCOxjlJNoZ7JvaVu-CY-W4bgfEJF9dw5ANPWkrelVuuAfoYfey9Wy4aAlf5EALw_wcB&visitor-id=F7J9PL6IG89ANB1RJHIVFVSFQGOV1OPJ&locale_autoredirect_optout=true)
 
 Thank you for visiting!
 
