@@ -64,7 +64,12 @@ I have had great travels:
 _Rhodesian ridgeback jumps_
 
 ![Local Image](assets/images/IMG_2778.JPG)
+
 _Joe's Underground Cafe in Augusta, Georgia. Check it out *[Things to do in Augusta](https://www.visitaugusta.com/listing/joes-underground/268/)*_
+
+![Local Image](assets/images/IMG_2779.JPG)
+
+_Destin, Florida. *[Great place for vacations!](https://destinflorida.com/)*_
 
 Thank you for visiting!
 
