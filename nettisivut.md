@@ -18,7 +18,7 @@ I'm a student but in the *early days* I've done various things such as:
 >
 > Then I worked as a cleaner in a hospital department of oncology - _sad years and lost a lot of people who I got to know_.
 >
-> While working as a cleaner, had a vision to become a typist - _got the job_. Then started to work in the ER as a medical typist.
+> While working as a cleaner, had a vision to become a typist - _got the job_. Then started to work in the ER as a medical typist and transferred to a private company a year later. I still work there as a part time typist.
 
 ### My travels
 
@@ -56,6 +56,8 @@ I have had great travels:
     - Sweden
         - Luleå
         - Stockholm
+
+![Local Image](assets/images/IMG_2777.JPG)
 
 Thank you for visiting!
 
