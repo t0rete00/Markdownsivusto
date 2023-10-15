@@ -12,7 +12,7 @@ I'm a student but in the *early days* I've done various things such as:
 >
 > Then I decided to go to high school and started working in a post office.
 >
-> I got bored and left to United States for a year to be an ***au pair***. I had great time exploring Georgia, New York, South and North Carolina and Florida.
+> I got bored and left to United States for a year to be an ***au pair***. I had great time exploring the country.
 >
 > I worked in a travelling office and continued my high school studies when I came back.
 >
@@ -22,12 +22,40 @@ I'm a student but in the *early days* I've done various things such as:
 
 ### My travels
 
-I have had a great interest to history which is why I traveled to Egypt many times between 2006 - 2010.
+I have had great travels:
 
-1. Hurghada
-2. Cairo
-3. Sharm el Sheikh
-4. Luxor
-
+- As a child
+    - Crete
+    - Cypros
+    - Tunisia
+    - Mallorca
+    - Bulgaria
+- As an adult
+    - USA
+        - North Carolina
+        - South Carolina
+        - Georgia
+        - New York
+        - Florida
+    - USA again in 2008 December
+        - New York (_a week in NYC before Christmas_)
+    - Germany
+        - Munich
+        - Nuremberg
+        - Frankfurt
+        - Berlin
+    - UAE
+        - Dubai
+    - Egypt
+        - Alexandria
+        - Cairo
+        - Sharm el Sheikh
+        - Hurghada
+        - Luxor
+        - Dahab
+    - Sweden
+        - Luleå
+        - Stockholm
+        
 Thank you for visiting!
 
