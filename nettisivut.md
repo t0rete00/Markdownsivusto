@@ -20,7 +20,14 @@ I'm a student but in the *early days* I've done various things such as:
 >
 > While working as a cleaner, had a vision to become a typist - _got the job_. Then started to work in the ER as a medical typist.
 
+### My travels
 
+I have had a great interest to history which is why I traveled to Egypt many times between 2006 - 2010.
+
+1. Hurghada
+2. Cairo
+3. Sharm el Sheikh
+4. Luxor
 
 Thank you for visiting!
 
