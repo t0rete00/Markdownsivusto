@@ -36,36 +36,33 @@ I have had great travels:
 
 - As a child
     - Crete
-    - Cypros
-    - Tunisia
-    - Mallorca
-    - Bulgaria
-- As an adult
-    - USA (_one year here_)
-        - North Carolina
-        - South Carolina
-        - Georgia
-        - New York
-        - Florida
-    - USA again in 2008 December
-        - New York (_a week in NYC before Christmas_)
-    - Germany (_one week traveling around with au pair friends from USA_)
-        - Munich
-        - Nuremberg
-        - Frankfurt
-        - Berlin
-    - UAE (_visiting the one au pair friend who wasn't able to attend trip to Germany_)
-        - Dubai
-    - Egypt (_in total of 5 months traveling around with rugsag in several trips_)
-        - Alexandria
-        - Cairo
-        - Sharm el Sheikh
-        - Hurghada
-        - Luxor
-        - Dahab
-    - Sweden
-        - Luleå
-        - Stockholm
+        - Cypros
+            - Tunisia
+                - Mallorca
+                    - Bulgaria
+- As an adult (let's use **a table** with these)
+
+| Country  | City or state | Year |
+| -------- | -------- | -------- |
+| USA | Georgia | 2006 - 2007|
+| USA | South Carolina | 2006 - 2007 |
+| USA | North Carolina | 2006 - 2007 |
+| USA | Florida | 2006 - 2007 |
+| USA | New York | 2006 - 2007 |
+| USA | NYC | 2008 |
+| Germany | Munich | 2011 |
+| Germany | Nuremberg | 2011 |
+| Germany | Frankfurt | 2011 |
+| Germany | Berlin | 2011 |
+| UAE | Dubai | 2010 |
+| Egypt | Alexandria | 2007 |
+| Egypt | Cairo | 2006, 2007, 2008, 2009|
+| Egypt | Sharm el Sheikh | 2008, 2009 |
+| Egypt | Hurghada | 2006, 2007, 2010 |
+| Egypt | Luxor | 2007, 2008 |
+| Egypt | Dahab | 2009 |
+| Sweden | Stockholm | 2013 |
+| Sweden | Luleå | 2014 |
 
 #### Some photos
 
