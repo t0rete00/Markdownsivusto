@@ -60,6 +60,7 @@ I have had great travels:
 #### Some photos
 
 ![Local Image](assets/images/IMG_2777.JPG)
+
 _Rhodesian ridgeback jumps_
 
 ![Local Image](assets/images/IMG_2778.JPG)
