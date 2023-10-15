@@ -71,7 +71,7 @@ I have had great travels:
 
 ![Local Image](assets/images/IMG_2778.JPG)
 
-_Joe's Underground Cafe in Augusta, Georgia. Check it out *[Things to do in Augusta](https://www.visitaugusta.com/listing/joes-underground/268/)*_
+_Joe's Underground Cafe in Augusta, Georgia. Check it out_ *[Things to do in Augusta](https://www.visitaugusta.com/listing/joes-underground/268/)*
 
 ![Local Image](assets/images/IMG_2779.JPG)
 
