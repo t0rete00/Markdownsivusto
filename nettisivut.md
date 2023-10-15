@@ -57,7 +57,13 @@ I have had great travels:
         - Luleå
         - Stockholm
 
+#### Some photos
+
 ![Local Image](assets/images/IMG_2777.JPG)
+_Rhodesian ridgeback jumps_
+
+![Local Image](assets/images/IMG_2778.JPG)
+_Joe's Underground Cafe in Augusta, Georgia. Check it out *[Things to do in Augusta](https://www.visitaugusta.com/listing/joes-underground/268/)*_
 
 Thank you for visiting!
 
